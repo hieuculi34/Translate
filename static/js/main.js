@@ -1,5 +1,5 @@
-const TRANSLATE_TEXT_URL = 'http://nmtuet.ddns.net:1715/translate_paragraphs';
-const TRANSLATE_FILE_URL = 'http://nmtuet.ddns.net:1715/translate_paragraphs';
+const TRANSLATE_TEXT_URL = 'https://nmtuet.ddns.net:1715/translate_paragraphs';
+const TRANSLATE_FILE_URL = 'https://nmtuet.ddns.net:1715/translate_paragraphs';
 const LANGUAGES_URL = 'https://libretranslate.de/languages';
 
 $(document).ready(async function () {
